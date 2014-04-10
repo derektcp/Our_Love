@@ -1,4 +1,4 @@
-Our_Love
+"Our_Love!"
 ========
 mkdir ~/Our_Love
 # Creates a directory for your project called "Our_Love" in your user directory
